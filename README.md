@@ -62,10 +62,10 @@ If it does not, you can try the more direct
 
 that will directly invoke the execution of the `__main__.py` file in the Python virtual environment.
 
-**And that's that!**
+# And that's that!
 
-While this installation process is no doubt very tedious, I must fully disclose my limited knowledge of app development. In fact, this is my very first properly functioning, _somewhat_ distributable GUI Application!
+While this installation process is no doubt very tedious, I must fully disclose my limited knowledge of app development. In fact, this is my very first properly functioning, _somewhat_ distributable GUI Application! The software itself is also by no means anywhere NEAR perfect. It's often slow and can only render functions of certain families correctly. Perhaps I will patch up the source code with a more recent release of Manim.
 
-I would really appreciate any suggestions on how to make the installation process more streamlined and user-friendly. Please do reach out to me at <fundamental.theor3m@gmail.com>.
+I would really appreciate any suggestions on how to make the installation process more streamlined and user-friendly. Suggestions on other ways to improve Trans4m8 are also very welcome. Please do not hesitate to email me at <fundamental.theor3m@gmail.com>.
 
 Do also check out my [YouTube Channel](https://www.youtube.com/channel/UCFqNAj6riU1m2hfA883BVdA) and my [Instagram Account](https://www.instagram.com/the_fundamental_theor3m/) for awesome Mathematical content!
